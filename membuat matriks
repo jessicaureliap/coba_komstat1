@@ -1,0 +1,1 @@
+A <- matrix(c(5, 7, 9, 13, -4, 8), nrow = 2, byrow = FALSE)
